@@ -1,0 +1,9 @@
+{
+  "name": "zum-front-cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Xvezda/zum-front-cypress.git",
+  "author": "Xvezda <xvezda@naver.com>",
+  "license": "MIT",
+  "private": true
+}
