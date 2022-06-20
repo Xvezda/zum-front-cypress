@@ -5,5 +5,9 @@
   "repository": "git@github.com:Xvezda/zum-front-cypress.git",
   "author": "Xvezda <xvezda@naver.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "cypress": "8.7.0",
+    "typescript": "^4.7.4"
+  }
 }
